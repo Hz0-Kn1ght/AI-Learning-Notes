@@ -50,3 +50,6 @@ $RECYCLE.BIN/
 *.pem
 secrets/
 private/
+
+# Obsidian 配置文件
+.obsidian/
