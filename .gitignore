@@ -1,0 +1,52 @@
+# =========================
+# Obsidian
+# =========================
+
+# 工作区布局（每台电脑可能不同）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 缓存
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# 回收站
+.trash/
+
+# =========================
+# Windows
+# =========================
+
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+.AppleDouble/
+.LSOverride
+
+# =========================
+# 临时文件
+# =========================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# =========================
+# 敏感文件
+# =========================
+
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+private/
